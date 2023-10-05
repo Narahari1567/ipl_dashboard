@@ -25,7 +25,7 @@ function App() {
           alt="logo"
           className="img"
         />
-        <h1>IPL Dashboard</h1>
+        <h1>IPL Dashboard New</h1>
       </div>
       <ul className="team-container">
         {teams?.map((team) => (
